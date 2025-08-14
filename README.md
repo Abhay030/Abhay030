@@ -1,4 +1,4 @@
-![Abhay Awasthi Banner](https://capsule-render.vercel.app/api?text=Hey%20there!%20I'm%20Abhay%20Awasthi%20👋&animation=fadeIn&type=waving&color=gradient&height=180&fontAlignY=40)
+![Abhay Awasthi Banner](https://capsule-render.vercel.app/api?text=%20I'm%20Abhay%20Awasthi%20👋&animation=fadeIn&type=waving&color=gradient&height=180&fontAlignY=40)
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abhay</h2>
 
