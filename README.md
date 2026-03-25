@@ -36,7 +36,7 @@
   https://github.com/Abhay030/Expense-tracker
 - 🗒️ **AI Based Hirebility Decider**
 - Live:- https://resume-analyzer-30-2fmni.puter.site/
-  https://github.com/Abhay030/Ai-resume-analyzer
+- https://github.com/Abhay030/Ai-resume-analyzer
 - 🛒 **AI Based Video Proctoring System**  
   https://github.com/Abhay030/video-proctoring-system
 - 🍔 **Production Grade URL Shortener**  
