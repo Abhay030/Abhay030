@@ -32,14 +32,15 @@
 
 ### 🚀 Featured Projects
 
-- 🧮 **iPhone Calculator Clone — HTML/CSS/JS**  
-  https://github.com/Abhay030/Calculator--Demo-Version
-- 🗒️ **Create-Paste App — React + Tailwind (Vite)**  
-  Live: https://create-paste-app.vercel.app • Repo: https://github.com/Abhay030/Create-Paste-App
-- 🛒 **E-Cart — Responsive shopping website**  
-  https://github.com/Abhay030/E-Cart
-- 🍔 **Foody — JS project**  
-  https://github.com/Abhay030/Foody
+- 🧮 **AI Based Expense Tracker**  
+  https://github.com/Abhay030/Expense-tracker
+- 🗒️ **AI Based Hirebility Decider**
+- Live:- https://resume-analyzer-30-2fmni.puter.site/
+  https://github.com/Abhay030/Ai-resume-analyzer
+- 🛒 **AI Based Video Proctoring System**  
+  https://github.com/Abhay030/video-proctoring-system
+- 🍔 **Production Grade URL Shortener**  
+  https://github.com/Abhay030/URL-shortener-App
 - 🚚 **MCP-Partner-Pickup — JS**  
   https://github.com/Abhay030/MCP-Partner-Pickup
 - 📝 **social-media (Auth Blog, EJS)**  
