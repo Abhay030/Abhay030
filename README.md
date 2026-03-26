@@ -32,19 +32,28 @@
 
 ### 🚀 Featured Projects
 
-- 🧮 **AI Based Expense Tracker**  
-  https://github.com/Abhay030/Expense-tracker
+- 🧮 **AI Based Expense Tracker**
+- **REPO :-** https://github.com/Abhay030/Expense-tracker
+- **LIVE :-** https://expense-tracker-mauve-eight-54.vercel.app/
+
 - 🗒️ **AI Based Hirebility Decider**
-- Live:- https://resume-analyzer-30-2fmni.puter.site/
-- https://github.com/Abhay030/Ai-resume-analyzer
-- 🛒 **AI Based Video Proctoring System**  
-  https://github.com/Abhay030/video-proctoring-system
-- 🍔 **Production Grade URL Shortener**  
-  https://github.com/Abhay030/URL-shortener-App
-- 🚚 **MCP-Partner-Pickup — JS**  
-  https://github.com/Abhay030/MCP-Partner-Pickup
-- 📝 **social-media (Auth Blog, EJS)**  
-  https://github.com/Abhay030/social-media
+- **Live :-** https://resume-analyzer-30-2fmni.puter.site/
+- **REPO :-** https://github.com/Abhay030/Ai-resume-analyzer
+  
+- 🛒 **AI Based Video Proctoring System**
+- **REPO :-** https://github.com/Abhay030/video-proctoring-system
+- **LIVE :-** https://video-proctoring-system-silk.vercel.app/
+  
+- 🍔 **Production Grade URL Shortener**
+- **REPO :-** https://github.com/Abhay030/URL-shortener-App
+- **LIVE :-** https://url-shortner-app-pi-ten.vercel.app/
+
+- 🚚 **MCP-Partner-Pickup — JS**
+- **REPO :-** https://github.com/Abhay030/MCP-Partner-Pickup
+  
+- 📝 **social-media (Auth Blog, EJS)**
+- **REPO :-** https://github.com/Abhay030/social-media
+- **LIVE :-** https://social-media-content-analyzer-alpha.vercel.app/
 
 ### ⚙️ &nbsp;GitHub Analytics
 
